@@ -1,0 +1,19 @@
+.main-conatiner {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.main-conatiner input {
+	padding: 15px 30px;
+	font-size: 1.5rem;
+}
+.main-conatiner button {
+	padding: 10px 20px;
+	font-size: 1.5rem;
+	border: none;
+	margin-top: 20px;
+}
+.display {
+	font-size: 1.5rem;
+}
